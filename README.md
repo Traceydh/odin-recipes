@@ -10,4 +10,4 @@ Through this project I was able to practice and learn
 - CSS casacade 
 - CSS properties 
 
-An important mistake I've committed is forgetting to commit throughout the project. I won't forget it again! 
+An important mistake I've made is forgetting to commit throughout the project. I won't forget it again! 
